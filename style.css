@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-image : url("ravus.jpg");
+    color: #333;
+    margin: 20px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+p {
+    font-size: 16px;
+}
